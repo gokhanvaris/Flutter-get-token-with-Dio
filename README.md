@@ -2,7 +2,7 @@
 ## Using dio package you can login for api and return token.
 
 
-API : [GitHub Pages](https://fakestoreapi.com/docs)
+API : [FakeStoreAPI](https://fakestoreapi.com/docs)
 
 Login: 
 
